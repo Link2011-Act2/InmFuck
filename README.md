@@ -1,5 +1,7 @@
 # InmFuck 野獣プログラミング言語
 
+#### Interpretable Numerical Manipulation Framework Using Creative Keywords
+
 なんだこれは...たまげたなあ
 
 ## 仕様
